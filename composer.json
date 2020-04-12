@@ -1,0 +1,19 @@
+{
+    "name": "riddman/meest-express",
+    "description": "A simple library for working with API of Meest Express",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "Oleksandr Polishchuk",
+            "email": "forcepoin3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Riddman\\MeestExpress\\": ""
+        }
+    }
+}
